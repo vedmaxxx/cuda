@@ -1,0 +1,55 @@
+.link {
+    font-family: "Titillium Web";
+    /* расстояние между ссылками 10px */
+}
+
+body {
+    font-family: "Titillium Web";
+}
+
+.giant-text {
+    font-size: 42px;
+    line-height: 48px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 24px;
+    line-height: 18px;
+    letter-spacing: 0.48px;
+    font-weight: 700;
+}
+
+.card-text {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.48px;
+    font-weight: lighter;
+}
+
+.card-prof {
+    color: #30bae7;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0.48px;
+}
+
+.content-section-team,
+.content-section-skills {
+    color: #3c4761;
+}
+
+.content-section-portfolio {
+    color: #393939;
+}
+
+/* .card-title--prof, 
+.card-text--prof {
+    color: #3c4761;
+} */
+
+.comments-item__prof {
+    color: #ffdd99;
+}

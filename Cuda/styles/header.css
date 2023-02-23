@@ -1,0 +1,39 @@
+.wrapper-header {
+    background-color: #87509c;
+    width: 100%;
+}
+
+.header {
+    margin: 0 auto;
+    width: 1100px;
+    /* margin: 0 170px 0 170px; */
+    padding: 60px 0 145px 0;
+}
+
+.header-line {
+    display: flex;
+    margin-left: 40px;
+    justify-content: space-between;
+    height: 40px;
+
+    align-items: center;
+    margin:  0 0 120px 0;
+}
+
+.header__button {
+    text-align: center;
+}
+
+.header-line__menu .menu__link:hover {
+    background-color: #643a79;
+}
+
+
+.header-line__giant-text {
+    margin: 0 0 62px 0;
+}   
+
+.header__button__item {
+    background-color: #eb7d4b;
+    box-shadow: 0px 4px 0px #c55725;
+}

@@ -1,0 +1,65 @@
+.wrapper-footer {
+    background-color: #344b8e;   
+}
+
+.wrapper-footer-line {
+    background-color: #273a71;;
+}
+
+.footer {
+    color: white;
+}
+
+.title-line--footer {
+    background-color: #273a71;
+}
+
+.footer__form-container {
+    margin: 75px 0 0 0;
+}
+
+.input-text {
+    width: 415px;
+    height: 55px;    
+    padding: 20px 25px;
+
+    background-color: #273a71;
+    color: white;
+    border-radius: 3px;
+
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.input-large-text {
+    max-width: 862px;
+    min-width: 862px;
+    min-height: 200px;    
+    padding: 20px 25px;
+    resize: vertical;
+    background-color: #273a71;
+    color: white;
+    border-radius: 3px;
+
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.input-text_name {
+    margin: 0 28px 30px 0;
+}
+
+.footer__button__item {
+    margin: 70px 0 0 0;
+    background-color: #30bae7;
+    box-shadow: 0px 4px 0px #289ac0;
+}
+
+.footer-line {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 110px;
+    width: 1100px;
+    padding: 0 50px;
+}

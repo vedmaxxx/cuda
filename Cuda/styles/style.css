@@ -1,0 +1,121 @@
+.title-line--services {
+    background-color: #14a58c;
+}
+.title-line--team,
+.title-line--skills {
+    background-color: #bdd1df;
+}
+.title-line--portfolio {
+    background-color: #e5c37f;
+}
+.title-line--people {
+    background-color: #000000;
+    opacity: 15%;
+}
+.title-line--form {
+    background-color: #273a71;
+}
+
+.link {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: white;
+
+    /* height: 32px; */
+    padding: 0 15px;
+
+    border-radius: 5px;
+}
+
+.menu__link {
+    margin-right: 14px;
+}
+
+
+.button {
+    width: 293px;
+    height: 68px;
+
+    display: inline-block;
+    color: white;
+    border-radius: 5px;
+
+    text-align: center;
+    font-size: 18px;
+    line-height: 68px;
+    text-transform: uppercase;
+
+    box-sizing: content-box;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 700;
+
+    /* line-height: 30px; */
+    letter-spacing: 4px;
+
+    text-transform: uppercase;
+}
+
+.sub-title {
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.4px;
+}
+
+.title-line {
+    height: 4px;
+    width: 86px;
+    margin: 0 auto;
+}
+
+/* cards */
+.card-holder {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card {
+    width: 240px;
+}
+.card-title {
+    text-transform: uppercase;
+}
+.card-text {
+    width: 204px;
+    display: inline-block;
+}
+.card-img {
+    margin: 0 0 60px 0;
+    height: 131px;
+}
+
+.photo {
+    width: 204px;
+    height: auto;
+}
+
+.social {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+
+    /* margin:0 10px 0 0; */
+}
+
+.media-link {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.38px;
+    color: white;
+    height: 30px;
+    margin: auto;
+}
+
+.media-link:hover {
+    color: #30bae7;
+}
